@@ -1,0 +1,5 @@
+1.Most employees in the company have a Bachelor’s degree, showing it’s the most common qualification.
+2.A smaller portion of employees hold Master’s or PhD degrees, indicating higher education is less common.
+3.Some employees have completed only High School, meaning the company hires across different education levels.
+4.The mix of education levels suggests a diverse workforce with varied skill sets.
+5.This distribution helps HR understand which education levels are most represented and where skill development might be needed
